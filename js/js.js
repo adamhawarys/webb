@@ -12,7 +12,7 @@ function ga(){
     }
     else if(pindah ==3){
         Btn.style.top=370;
-        Btn.style.left=150;
+        Btn.style.left=175;
         pindah =1;
     }
 
